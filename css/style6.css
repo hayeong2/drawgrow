@@ -285,6 +285,7 @@ input {
     background: url(../image/footer_wrap.png);
     background-size: cover;
     width: 100%;
+    max-width: 1920px;
     height: 400px;
     margin: 0 auto;
     margin-top: -50px;
