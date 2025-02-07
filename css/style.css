@@ -100,7 +100,6 @@ h1 {
 .sub_wrap {
     background-color: #6da065b7;
     width: 100%;
-    max-width: 1920px;
     left: 0;
     z-index: 99;
     position: absolute;
