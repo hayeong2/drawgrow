@@ -221,6 +221,9 @@ h1 {
 /* 다독이모집_START */
 #dadok_wrap {
     width: 100%;
+
+    max-width: 1920px;
+    
     height: 865px;
     box-sizing: border-box;
     background: url(../image/dadok_bg.png);
