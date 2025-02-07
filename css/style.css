@@ -339,7 +339,7 @@ h1 {
 /* content2_START */
 #content2_wrap {
     width: 100%;
-    max-width: 1920px;
+/*     max-width: 1920px; */
     height: 1300px;
     background-color: #d6ebd5;
 
@@ -350,6 +350,7 @@ h1 {
 .wrap_bg {
     width: 100%;
     max-width: 1920px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
 
